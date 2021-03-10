@@ -1,0 +1,28 @@
+{
+  "foods": [
+    {
+      "id": 2,
+      "name": "Veggie",
+      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
+      "price": "21.90",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+    },
+    {
+      "id": 3,
+      "name": "A la Camarón 1",
+      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
+      "price": "25.910",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Prato Brasileiro",
+      "price": "20,00",
+      "description": "Teste de Inclusao",
+      "available": true,
+      "id": 4
+    }
+  ]
+}
